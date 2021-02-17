@@ -1,0 +1,1 @@
+# closeRangeAndGetByA1NotationArray
